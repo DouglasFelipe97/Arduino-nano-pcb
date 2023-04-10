@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=IC1-1
+Removed Pin From Net: NetName=VCC Pin=IC1-2
+Removed Pin From Net: NetName=VDD Pin=IC1-3
+Removed Member From Class: ClassName=Sheet1 Member=IC1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Added Component: Designator=U1(TO252-3)
+Added Pin To Net: NetName=NetC5_2 Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Pin To Net: NetName=VDD Pin=U1-3
+Added Member To Class: ClassName=Sheet1 Member=Component U2 PIC12F675

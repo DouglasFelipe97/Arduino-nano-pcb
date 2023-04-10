@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=K1-3
+Removed Pin From Net: NetName=NetJ3_1 Pin=K1-4
+Change Component Footprint: Designator=J3 Old Footprint=JST-2-PTH-NS New Footprint=TE 282834-2
+Change Component Footprint: Designator=J1 Old Footprint=SCREWTERMINAL-3.5MM-3_LOCK.007S New Footprint=MOLEX KK 0022272031
+Change Component Comment : Designator=J3 Old Comment=Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes: Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432 New Comment=282834-2
+Change Component Comment : Designator=J1 Old Comment=Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)   Stackable Header - 3 Pin (Female, 0.1") (PRT-13875)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here          Special notes:         Molex polarized connector foot print use with SKU : PRT-08232 with associated crimp pins and housings. New Comment=0022272031
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SCREWTERMINAL-3.5MM-3_LOCK.007S"; UniqueID = "\AJFHUJNO" ("\AJFHUJNO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/022272031_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/molex/0022272031/WM4112-ND/1130578"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish Thickness - Mating"; Value = "100.0µin (2.54µm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Mating"; Value = "0.295" (7.49mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Post"; Value = "0.140" (3.56mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Friction Lock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "0.461" (11.70mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA), Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "12/01/2020 23:51:54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Overall Contact Length"; Value = "0.560" (14.22mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0022272031"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "77"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.37"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KK 6410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shrouding"; Value = "Shrouded - 1 Wall"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM4112-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "JST-2-PTH-NS"; UniqueID = "\NMRPGHHR" ("\NMRPGHHR")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/282834-2/A98333-ND/1150135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "15/01/2020 04:15:38"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "282834-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.88"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A98333-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge"; Value = "16-30 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=NetJ3_1 Pin=K1-3
+Added Pin To Net: NetName=NetJ3_2 Pin=K1-4
